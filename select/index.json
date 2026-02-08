@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Tension",
+  "base_artist": "Central Cee",
+  "createdAt": "2026-02-08T14:50:31.642376Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Simulacro de Tensión",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/01_Simulacro_de_Tensión_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "03 - Simulacro De Tensión",
+      "artist": "Los Enanitos Verdes",
+      "has_synced": true,
+      "path": "select/02_03_-_Simulacro_De_Tensión_Los_Enanitos_Verdes.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Exquisite Tension",
+      "artist": "You'll Never Get to Heaven",
+      "has_synced": true,
+      "path": "select/03_Exquisite_Tension_You'll_Never_Get_to_Heaven.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nervous Tension",
+      "artist": "Lemon Jelly",
+      "has_synced": true,
+      "path": "select/04_Nervous_Tension_Lemon_Jelly.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "Nav",
+      "has_synced": true,
+      "path": "select/05_Tension_Nav.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "NAV",
+      "has_synced": true,
+      "path": "select/06_Tension_NAV.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "Central Cee",
+      "has_synced": true,
+      "path": "select/07_Tension_Central_Cee.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "Aqueduct",
+      "has_synced": false,
+      "path": "select/08_Tension_Aqueduct.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Positive Tension",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/09_Positive_Tension_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "Dagny",
+      "has_synced": true,
+      "path": "select/10_Tension_Dagny.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Positive Tension - Blackbox Remix",
+      "artist": "Bloc Party",
+      "has_synced": true,
+      "path": "select/11_Positive_Tension_-_Blackbox_Remix_Bloc_Party.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Tension",
+      "artist": "Vivian Girls",
+      "has_synced": true,
+      "path": "select/12_Tension_Vivian_Girls.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fragile Tension",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/13_Fragile_Tension_Depeche_Mode.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Fragile Tension",
+      "artist": "Depeche Mode",
+      "has_synced": true,
+      "path": "select/14_Fragile_Tension_Depeche_Mode.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Tension",
+      "artist": "Central Cee",
+      "has_synced": false,
+      "path": "select/pl_01_Tension_Central_Cee.txt"
+    }
+  ]
+}
